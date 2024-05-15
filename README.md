@@ -2,7 +2,7 @@
 
 I'm a father, an engineer, and a leader. I have a love for solving meaningful problems, exploring new technologies, and helping other people better understand the shortest path to success.
 
-### My preferred technology stack, circa 2023
+### My preferred technology stack, circa 2024
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://react.dev)
